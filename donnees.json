@@ -1,7 +1,7 @@
 {
     "hpenteplot" : 2,
-    "hinit": 0.93,
-    "alpha": 40,
+    "hinit": 2,
+    "alpha": 3.7,
     "mu": 0.002,
     "p": 1.225,
     "S": 0.0003,
@@ -15,8 +15,8 @@
     "rho" : 1.225,
     "SCx": 0.001,
     "SCz": 0.01,
-    "hravin": 0.1,
-    "lravin": 0.7,
+    "hravin": 1,
+    "lravin": 9,
     "ravintmax": 0.3,
     "ravinpass": 100,
     "receptionLongeur": 1.4
