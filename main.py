@@ -1,8 +1,3 @@
-# ___   ___ 
-#(__ \ (__ )
-# / _/  (_ \
-#(____((___/
-
 import json
 import matplotlib.pyplot as plt
 import os
