@@ -23,8 +23,8 @@ if(result == "1"): # Si réponse est égale à 1 (Cas réel)
     donnees["ravinpass"]=200
     donnees["receptionLongeur"]= 20
 
-donnees["cos"] = np.cos(np.radians(donnees["alpha"])) # Cos(40)
-donnees["sin"] = np.sin(np.radians(donnees["alpha"])) # Sin(40)
+donnees["cos"] = np.cos(np.radians(donnees["alpha"])) # Cos(3.7)
+donnees["sin"] = np.sin(np.radians(donnees["alpha"])) # Sin(3.7)
 donnees["pSC"] = 1/2*(donnees["p"]*donnees["S"]*donnees["C"]) # Pour simplifier les calculs par la suite
 donnees["L"] = donnees["hinit"] / donnees["sin"] # Calcul longeur pente avec les valeur initiale
 
